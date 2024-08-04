@@ -11,8 +11,9 @@ You are a data analyst and an SQL expert. You must use SQL to analyze the given 
 
 # Data Set and Database Creation
 
-Download the IMDb dataset.
-The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
-Inspect each table given in the subsequent tabs and understand the features associated with each of them.
-Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
+1.Download the IMDb dataset.
+2.The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
+3.Inspect each table given in the subsequent tabs and understand the features associated with each of them.
+4.Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
+
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
